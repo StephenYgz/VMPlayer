@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@mipmap/icon_home"
+        id="@+id/tab_home"
+        title="首页" />
+    <tab
+        icon="@mipmap/icon_mv"
+        id="@+id/tab_mv"
+        title="MV" />
+    <tab
+        icon="@mipmap/icon_music"
+        id="@+id/tab_music"
+        title="音乐" />
+    <tab
+        icon="@mipmap/icon_meinv"
+        id="@+id/tab_meinv"
+        title="美女" />
+</tabs>

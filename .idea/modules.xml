@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VMPlayer.iml" filepath="$PROJECT_DIR$/VMPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net/net.iml" filepath="$PROJECT_DIR$/net/net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoViewlibrary/photoViewlibrary.iml" filepath="$PROJECT_DIR$/photoViewlibrary/photoViewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vmplayer17/vmplayer17.iml" filepath="$PROJECT_DIR$/vmplayer17/vmplayer17.iml" />
+    </modules>
+  </component>
+</project>

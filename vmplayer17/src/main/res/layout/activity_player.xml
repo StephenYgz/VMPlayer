@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_player"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.itheima.vmplayer.ui.activity.PlayerActivity">
+
+
+    <fm.jiecao.jcvideoplayer_lib.JCVideoPlayerStandard
+        android:id="@+id/player"
+        android:paddingTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="245dp">
+    </fm.jiecao.jcvideoplayer_lib.JCVideoPlayerStandard>
+
+
+
+</RelativeLayout>
